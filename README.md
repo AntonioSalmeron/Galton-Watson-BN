@@ -1,4 +1,4 @@
 # Galton-Watson-BN
-Replication package for the paper "Modeling Galton-Watson Processes Using Bayesian Networks"
+Replication package for the paper "Bayesian Networks with Branching Processes: Modeling, Inference and Learning"
 
 Run the R script to replicate the experiments in the paper
