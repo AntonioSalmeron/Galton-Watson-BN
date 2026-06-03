@@ -1,6 +1,7 @@
 ####################################################################
 # This script can be used to replicate the simulation study in the
-# paper "Modeling Galton-Watson Processes Using Bayesian Networks"
+# paper "Bayesian Networks with Branching Processes: Modeling, 
+# Inference and Learning"
 ####################################################################
 
 
